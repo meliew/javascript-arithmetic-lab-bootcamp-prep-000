@@ -29,7 +29,7 @@ parseInt(n, 10)
 
 }
 
-n = "2.124"
+n = "2.222"
 function preserveDecimal(n) {
   parseFloat(n)
 }
