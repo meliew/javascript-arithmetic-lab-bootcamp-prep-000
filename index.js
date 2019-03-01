@@ -11,8 +11,9 @@ function multiply(a,b) {
 function divide(a,b) {
   return a / b
 }
+
+n = 5
 function inc(n) {
-  n = 5
   return n += 1
-  
+
 }
