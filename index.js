@@ -11,3 +11,8 @@ function multiply(a,b) {
 function divide(a,b) {
   return a / b
 }
+function inc(n) {
+  n = 5
+  return n += 1
+  
+}
