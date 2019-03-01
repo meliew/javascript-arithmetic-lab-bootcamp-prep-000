@@ -32,6 +32,6 @@ return n
 
 n = "2.222"
 function preserveDecimal(n) {
-  parseFloat(n)
+  parseFloat("2.222")
   return n
 }
