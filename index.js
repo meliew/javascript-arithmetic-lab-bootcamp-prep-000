@@ -15,5 +15,10 @@ function divide(a,b) {
 n = 5
 function inc(n) {
   return n += 1
+  
+}
 
+n = 5
+function dec(n) {
+  return n -= 1
 }
